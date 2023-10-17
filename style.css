@@ -487,4 +487,13 @@ footer .payments .col-lg-4 {
 }
 .navbar-toggler[aria-expanded=true] span {
   background-image: url(./assets/close.png) !important;
+}
+
+.social-icons a, .copyright a {
+  color: white;
+  text-decoration: none;
+}
+
+.social-icons a:hover, .copyright a:hover {
+  color: #3671e9;
 }/*# sourceMappingURL=style.css.map */

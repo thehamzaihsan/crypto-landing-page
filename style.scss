@@ -519,3 +519,11 @@ footer{
     }
   }
 }
+
+.social-icons a , .copyright a{
+  color:white;
+  text-decoration: none;
+}
+.social-icons a:hover , .copyright a:hover{
+  color: $accent-color;
+}
